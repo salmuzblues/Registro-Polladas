@@ -1,0 +1,11 @@
+
+EDITAR  ---> ALT + X
+AGREGAR ---> ALT + A
+EXPORTAR --> ALT + E 
+IMPORTAR---> ALT + I 
+SALIR   ---> ALT + S 
+TOTAL   ---> ALT + T
+LIMPIAR ---> ALT + L 
+ELIMINAR --> ALT + C
+VOLVER AL MENU ---> ALT + M
+MATERIALES ...> ALT + F2
